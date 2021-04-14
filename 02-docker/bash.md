@@ -1,4 +1,8 @@
 
+```shell
+#跟着狂神学docker视频: https://www.bilibili.com/video/BV1kv411q7Qc
+```
+
 ## 一 、帮助命令
 ```shell
 docker version                                    #查看版本!
