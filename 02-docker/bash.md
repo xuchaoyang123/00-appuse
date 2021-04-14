@@ -560,13 +560,13 @@ bash-3.2$ docker build -f ./DockerFile -t diytomcat:1.0 /usr/local/src/
 ```shell
 
 1. 注册一个账号 https://hub.docker.com 
-2. 确定账号可以登录  xuchaoyang/Tcdn@2007
+2. 确定账号可以登录  
 3.进行打tag 注意docker hub上传需要打自己账号名的tag才能上传。 
 4 在服务器上提交自己的镜像
 
 
 #先登录自己的账户
-docker login -u xuchaoyang  -p Tcdn@2007
+docker login -u xuchaoyang  -p XXXXX
     WARNING! Using --password via the CLI is insecure. Use --password-stdin.
     Login Succeeded
 
