@@ -566,7 +566,7 @@ bash-3.2$ docker build -f ./DockerFile -t diytomcat:1.0 /usr/local/src/
 
 
 #先登录自己的账户
-docker login -u xuchaoyang  -p XXXXX
+docker login -u xuchaoyang  -p XXXXXX
     WARNING! Using --password via the CLI is insecure. Use --password-stdin.
     Login Succeeded
 
