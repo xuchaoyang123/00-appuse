@@ -1,7 +1,7 @@
 
 ## 一 、帮助命令
 ```shell
-docker version                                    #查看版本
+docker version                                    #查看版本!
 docker  info                                      #详细的信息 包括镜像和容器个数
 docker  --help
 
