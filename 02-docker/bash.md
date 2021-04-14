@@ -94,7 +94,7 @@ docker  commit -m="提交的描述信息" -a="作者" 容器id  目标镜像名:
 docker build -f dockerfile文件路径  -t 镜像名:TAG .                     #自己定义dockerfile 从无到有生成镜像
 docker  history ed0236714d27                                          #查看构建dockerfile步骤历史
 
-docker login -u xuchaoyang  -p XXXXX       #登录docker hub
+docker login -u xuchaoyang  -p xxxxx     #登录docker hub
 docker logout                                  #退出
 
 
@@ -566,7 +566,7 @@ bash-3.2$ docker build -f ./DockerFile -t diytomcat:1.0 /usr/local/src/
 
 
 #先登录自己的账户
-docker login -u xuchaoyang  -p XXXXXX
+docker login -u xuchaoyang  -p xxxxx
     WARNING! Using --password via the CLI is insecure. Use --password-stdin.
     Login Succeeded
 
